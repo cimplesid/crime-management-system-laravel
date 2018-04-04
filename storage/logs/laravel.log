@@ -1,0 +1,80 @@
+[2018-03-18 17:15:46] production.ERROR: Symfony\Component\Debug\Exception\FatalThrowableError: Class 'Barryvdh\Snappy\ServiceProvider' not found in C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:146
+Stack trace:
+#0 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(114): Illuminate\Foundation\ProviderRepository->createProvider('Barryvdh\\Snappy...')
+#1 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(60): Illuminate\Foundation\ProviderRepository->compileManifest(Array)
+#2 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(530): Illuminate\Foundation\ProviderRepository->load(Array)
+#3 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\RegisterProviders.php(17): Illuminate\Foundation\Application->registerConfiguredProviders()
+#4 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(203): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap(Object(Illuminate\Foundation\Application))
+#5 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(219): Illuminate\Foundation\Application->bootstrapWith(Array)
+#6 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(105): Illuminate\Foundation\Console\Kernel->bootstrap()
+#7 C:\xampp\htdocs\projectx_crime\crime_report_management-master\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 {main}  
+[2018-03-18 17:16:37] production.ERROR: Symfony\Component\Debug\Exception\FatalThrowableError: Class 'Barryvdh\Snappy\ServiceProvider' not found in C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:146
+Stack trace:
+#0 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(114): Illuminate\Foundation\ProviderRepository->createProvider('Barryvdh\\Snappy...')
+#1 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(60): Illuminate\Foundation\ProviderRepository->compileManifest(Array)
+#2 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(530): Illuminate\Foundation\ProviderRepository->load(Array)
+#3 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\RegisterProviders.php(17): Illuminate\Foundation\Application->registerConfiguredProviders()
+#4 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(203): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap(Object(Illuminate\Foundation\Application))
+#5 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(219): Illuminate\Foundation\Application->bootstrapWith(Array)
+#6 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(105): Illuminate\Foundation\Console\Kernel->bootstrap()
+#7 C:\xampp\htdocs\projectx_crime\crime_report_management-master\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 {main}  
+[2018-03-18 17:29:43] production.ERROR: Symfony\Component\Debug\Exception\FatalThrowableError: Class 'Barryvdh\Snappy\ServiceProvider' not found in C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:146
+Stack trace:
+#0 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(114): Illuminate\Foundation\ProviderRepository->createProvider('Barryvdh\\Snappy...')
+#1 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(60): Illuminate\Foundation\ProviderRepository->compileManifest(Array)
+#2 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(530): Illuminate\Foundation\ProviderRepository->load(Array)
+#3 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\RegisterProviders.php(17): Illuminate\Foundation\Application->registerConfiguredProviders()
+#4 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(203): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap(Object(Illuminate\Foundation\Application))
+#5 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(219): Illuminate\Foundation\Application->bootstrapWith(Array)
+#6 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(105): Illuminate\Foundation\Console\Kernel->bootstrap()
+#7 C:\xampp\htdocs\projectx_crime\crime_report_management-master\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 {main}  
+[2018-03-18 17:30:09] production.ERROR: Symfony\Component\Debug\Exception\FatalThrowableError: Class 'Barryvdh\Snappy\ServiceProvider' not found in C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:146
+Stack trace:
+#0 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(114): Illuminate\Foundation\ProviderRepository->createProvider('Barryvdh\\Snappy...')
+#1 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(60): Illuminate\Foundation\ProviderRepository->compileManifest(Array)
+#2 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(530): Illuminate\Foundation\ProviderRepository->load(Array)
+#3 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\RegisterProviders.php(17): Illuminate\Foundation\Application->registerConfiguredProviders()
+#4 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(203): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap(Object(Illuminate\Foundation\Application))
+#5 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(219): Illuminate\Foundation\Application->bootstrapWith(Array)
+#6 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(105): Illuminate\Foundation\Console\Kernel->bootstrap()
+#7 C:\xampp\htdocs\projectx_crime\crime_report_management-master\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 {main}  
+[2018-03-18 17:44:34] local.ERROR: Symfony\Component\Debug\Exception\FatalThrowableError: Class 'Barryvdh\Snappy\ServiceProvider' not found in C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:146
+Stack trace:
+#0 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(114): Illuminate\Foundation\ProviderRepository->createProvider('Barryvdh\\Snappy...')
+#1 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(60): Illuminate\Foundation\ProviderRepository->compileManifest(Array)
+#2 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(530): Illuminate\Foundation\ProviderRepository->load(Array)
+#3 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\RegisterProviders.php(17): Illuminate\Foundation\Application->registerConfiguredProviders()
+#4 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(203): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap(Object(Illuminate\Foundation\Application))
+#5 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(219): Illuminate\Foundation\Application->bootstrapWith(Array)
+#6 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(105): Illuminate\Foundation\Console\Kernel->bootstrap()
+#7 C:\xampp\htdocs\projectx_crime\crime_report_management-master\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 {main}  
+[2018-03-18 17:44:50] local.ERROR: Symfony\Component\Debug\Exception\FatalThrowableError: Class 'Barryvdh\Snappy\ServiceProvider' not found in C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:146
+Stack trace:
+#0 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(114): Illuminate\Foundation\ProviderRepository->createProvider('Barryvdh\\Snappy...')
+#1 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(60): Illuminate\Foundation\ProviderRepository->compileManifest(Array)
+#2 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(530): Illuminate\Foundation\ProviderRepository->load(Array)
+#3 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\RegisterProviders.php(17): Illuminate\Foundation\Application->registerConfiguredProviders()
+#4 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(203): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap(Object(Illuminate\Foundation\Application))
+#5 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(219): Illuminate\Foundation\Application->bootstrapWith(Array)
+#6 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(105): Illuminate\Foundation\Console\Kernel->bootstrap()
+#7 C:\xampp\htdocs\projectx_crime\crime_report_management-master\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 {main}  
+[2018-03-18 17:50:04] local.ERROR: ErrorException: file_put_contents(C:\xampp\htdocs\projectx_crime\crime_report_management-master\bootstrap/cache/services.php): failed to open stream: No such file or directory in C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php:111
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 111, Array)
+#1 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(111): file_put_contents('C:\\xampp\\htdocs...', '<?php return ar...', 0)
+#2 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(189): Illuminate\Filesystem\Filesystem->put('C:\\xampp\\htdocs...', '<?php return ar...')
+#3 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(135): Illuminate\Foundation\ProviderRepository->writeManifest(Array)
+#4 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php(60): Illuminate\Foundation\ProviderRepository->compileManifest(Array)
+#5 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(530): Illuminate\Foundation\ProviderRepository->load(Array)
+#6 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\RegisterProviders.php(17): Illuminate\Foundation\Application->registerConfiguredProviders()
+#7 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(203): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap(Object(Illuminate\Foundation\Application))
+#8 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(219): Illuminate\Foundation\Application->bootstrapWith(Array)
+#9 C:\xampp\htdocs\projectx_crime\crime_report_management-master\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(105): Illuminate\Foundation\Console\Kernel->bootstrap()
+#10 C:\xampp\htdocs\projectx_crime\crime_report_management-master\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 {main}  
